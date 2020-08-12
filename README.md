@@ -2,4 +2,4 @@
 
 Change 1
 
-Change by: git checkout -b new-branch-1
+Change by: git checkout -b new-branch-2
